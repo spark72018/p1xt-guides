@@ -72,7 +72,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Project: Build Facebook: yes, all the functionality. See [here](http://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project) for a list of requirements you should fulfill.
 * [ ] Course: [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 * [ ] Project: Complete all challenges from the [Code Jam Round 1C 2015](https://code.google.com/codejam/contest/4244486/dashboard)
-* [ ] Course: [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)
+* [o] Course: [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)
 * [ ] Project: Write the CSS Necessary to create your own 12 column based grid layout - see [here](http://960.gs/) for an example
 * [ ] Course: [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)
 * [ ] Project: Complete all Classic Puzzles - Hard on [CodinGame](https://www.codingame.com/) in JavaScript
