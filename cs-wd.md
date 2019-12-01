@@ -47,7 +47,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
 * [x] Course: [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 * [x] Course: [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837)
-* [ ] Project: Build the Pomodoro project from the FCC frontend curriculum - as an android app
+* [x] Project: Build the Pomodoro project from the FCC frontend curriculum - as an android app
 
 ## Tier 3 - add more rigor
 
